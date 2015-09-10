@@ -1,3 +1,5 @@
 # AnimRound
-this is init project 
 项目快上线 临时要加上用户Logo变化动画
+
+
+![Alt Text](https://github.com/yiShanXin/AnimRound/edit/master/images/test.gif)
